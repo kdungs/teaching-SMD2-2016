@@ -18,4 +18,7 @@ gibt, meldet euch bei Kevin.
  * [Minimales Wissenschaftliches Python tutorial](tutorials/Wissenschaftliches%20Python%20Tutorial.ipynb)
 
 ### Übungsblätter
- * Blatt 1
+ * [Blatt 1](assignments/1.ipynb)
+ * [Blatt 2](assignments/2.ipynb)
+ * Blatt 3
+ * Blatt 4

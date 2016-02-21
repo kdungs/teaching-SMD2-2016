@@ -15,10 +15,22 @@ gibt, meldet euch bei Kevin.
 
 ### Tutorials
  * [Minimales Python Tutorial](tutorials/Python%20Tutorial.ipynb)
- * [Minimales Wissenschaftliches Python tutorial](tutorials/Wissenschaftliches%20Python%20Tutorial.ipynb)
+ * [Minimales Wissenschaftliches Python
+   Tutorial](tutorials/Wissenschaftliches%20Python%20Tutorial.ipynb)
 
 ### Übungsblätter
  * [Blatt 1](assignments/1.ipynb)
  * [Blatt 2](assignments/2.ipynb)
+ * Blatt 3
+ * Blatt 4
+
+### Musterlösungen
+Die Lösungen sind bereits vor der Übungsgruppe an dieser Stelle verfügbar. Wir
+vertrauen darauf, dass ihr aus eigenem Interesse die Übung aufmerksam verfolgt
+und die Aufgaben selbstständig löst, bevor ihr die Musterlösung zur Kontrolle
+dazu nehmt.
+
+ * [Blatt 1](solutions/1.ipynb)
+ * Blatt 2
  * Blatt 3
  * Blatt 4

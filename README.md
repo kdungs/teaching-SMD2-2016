@@ -31,6 +31,6 @@ und die Aufgaben selbstständig löst, bevor ihr die Musterlösung zur Kontrolle
 dazu nehmt.
 
  * [Blatt 1](solutions/1.ipynb)
- * Blatt 2
+ * [Blatt 2](solutions/2.ipynb)
  * Blatt 3
  * Blatt 4

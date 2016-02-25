@@ -22,7 +22,7 @@ gibt, meldet euch bei Kevin.
  * [Blatt 1](assignments/1.ipynb)
  * [Blatt 2](assignments/2.ipynb)
  * [Blatt 3](assignments/3.ipynb)
- * Blatt 4
+ * [Blatt 4](assignments/4.ipynb)
 
 ### Musterlösungen
 Die Lösungen sind bereits vor der Übungsgruppe an dieser Stelle verfügbar. Wir

@@ -33,4 +33,4 @@ dazu nehmt.
  * [Blatt 1](solutions/1.ipynb)
  * [Blatt 2](solutions/2.ipynb)
  * [Blatt 3](solutions/3.ipynb)
- * Blatt 4
+ * [Blatt 4](solutions/4.ipynb) _unvollständig_

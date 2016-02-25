@@ -21,7 +21,7 @@ gibt, meldet euch bei Kevin.
 ### Übungsblätter
  * [Blatt 1](assignments/1.ipynb)
  * [Blatt 2](assignments/2.ipynb)
- * Blatt 3
+ * [Blatt 3](assignments/3.ipynb)
  * Blatt 4
 
 ### Musterlösungen
@@ -32,5 +32,5 @@ dazu nehmt.
 
  * [Blatt 1](solutions/1.ipynb)
  * [Blatt 2](solutions/2.ipynb)
- * Blatt 3
+ * [Blatt 3](solutions/3.ipynb)
  * Blatt 4
